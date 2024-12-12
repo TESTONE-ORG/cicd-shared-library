@@ -1,0 +1,5 @@
+{
+    "appName": "App2",
+    "k8sDeploymentFile": "app2-deployment.yaml",
+    "environment": "staging"
+}

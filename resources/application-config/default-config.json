@@ -1,0 +1,5 @@
+{
+    "appName": "DefaultApp",
+    "k8sDeploymentFile": "default-deployment.yaml",
+    "environment": "dev"
+}
